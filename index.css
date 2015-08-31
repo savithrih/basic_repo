@@ -1,0 +1,25 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+#container
+{
+	margin :0 auto;
+	background-color: black;
+	height:560px;
+	width:565px;
+	padding:10px;
+}
+h1 ,p
+{
+	color:white;
+}
+p{
+		margin-top: 10px;
+}
+img
+{
+	width: 280px;
+	height: 200px;
+}
